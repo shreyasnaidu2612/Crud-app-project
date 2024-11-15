@@ -24,9 +24,9 @@ A simple CRUD (Create, Read, Update, Delete) web application built with Node.js,
 ### Application Interface
 Here are some screenshots of the application:
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](images/Screenshot%202024-11-15%20101701.png)
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](images/Screenshot%202024-11-15%20101755.png)
 
 ## Features
 - **CRUD Operations**: Create, Read, Update, Delete entries.
